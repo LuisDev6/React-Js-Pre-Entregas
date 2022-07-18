@@ -1,0 +1,33 @@
+.item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+p{
+    font-size: 20px;
+    text-align: center;
+}
+
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+
+    padding-top: 100px;
+    width: 400px;
+    height: 500px;
+    
+}
+.card-image{
+    width: 200px;
+    height: 200px;
+
+}
+.title{
+    font-size: 26px;
+    font-weight: bold;
+    
+}

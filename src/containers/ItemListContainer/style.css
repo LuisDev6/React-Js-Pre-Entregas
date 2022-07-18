@@ -1,0 +1,14 @@
+.p-greeting{
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+}
+
+.item-list-container{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  
+}
