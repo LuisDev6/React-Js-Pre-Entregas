@@ -18,6 +18,10 @@ ul.topnav li .a {
   font-weight: bold;
   font-size: 20px;
 }
+.a-cart{
+  color: white;
+
+}
 
 ul.topnav li .a:hover:not(.active) {background-color: #111;}
 

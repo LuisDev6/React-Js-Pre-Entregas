@@ -4,10 +4,13 @@
     color: white;
     text-align: center;
     padding-top: 7px;
-    margin-right: 20px;
-   
+    margin-right: 20px;    
+}
 
-
-
-    
+span{
+    font-size: 35px;
+    text-align: center;
+    padding-top: 7px;
+    margin-right: 2px;
+    margin-bottom: 10px;  
 }

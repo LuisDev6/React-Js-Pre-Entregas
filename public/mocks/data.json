@@ -5,7 +5,7 @@
         "price": 2000,
         "description": "350000 rpm con 5 salidas de spray",
         "category": "turbinas",
-        "image": "../image/turbina.png",
+        "image": "./assets/image/turbina.png",
         "rating":{
             "rate": 5,
             "count": 10
@@ -18,7 +18,7 @@
         "price": 2500,
         "description": "350000 rpm con 3 salidas de spray",
         "category": "turbinas",
-        "image": "../image/turbina.png",
+        "image": "./assets/image/turbina.png",
         "rating":{
             "rate": 5,
             "count": 10
@@ -31,7 +31,7 @@
         "price": 1000,
         "description": "350000 rpm con 1 salidas de spray",
         "category": "micro motores",
-        "image": "../image/micro.png",
+        "image": "./assets/image/micro.png",
         "rating":{
             "rate": 5,
             "count": 10
@@ -44,7 +44,7 @@
         "price": 10000,
         "description": "Con LED y con 5 salidas de spray",
         "category": "micro motores",
-        "image": "../image/micro.png",
+        "image": "./assets/image/micro.png",
         "rating":{
             "rate": 5,
             "count": 10
@@ -57,7 +57,7 @@
         "price": 20000,
         "description": "Torno colgante para mecanica dental",
         "category": "tornos",
-        "image": "../image/torno.png",
+        "image": "./assets/image/torno.png",
         "rating":{
             "rate": 5,
             "count": 10
@@ -70,7 +70,7 @@
         "price": 18000,
         "description": "Lampara halogena de fotocurado",
         "category": "contra angulos",
-        "image": "../image/contra.png",
+        "image": "./assets/image/contra.png",
         "rating":{
             "rate": 5,
             "count": 10
@@ -83,7 +83,7 @@
         "price": 2000,
         "description": "350000 rpm con 5 salidas de spray",
         "category": "contra angulos",
-        "image": "../image/contra.png",
+        "image": "./assets/image/contra.png",
         "rating":{
             "rate": 5,
             "count": 10
@@ -96,7 +96,7 @@
         "price": 2000,
         "description": "350000 rpm con 5 salidas de spray",
         "category": "tornos",
-        "image": "../image/torno.png",
+        "image": "./assets/image/torno.png",
         "rating":{
             "rate": 5,
             "count": 10

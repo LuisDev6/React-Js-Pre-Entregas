@@ -1,54 +1,15 @@
-.p_cantidad{
-    font-size: 20px;
-    font-weight: bold;
-    margin: auto;
+.div-cart{
+    display: inline-block ;
+    font-size: 26px;
+    margin-left: 20px;
+ 
 }
 p{
-  margin: 10px;
+    font-size: 26px;
+    font-weight: bold;
 }
 
-.btn_plus{
-    font-family: Arial;
-    color: #ffffff;
-    font-size: 20px;
-    padding: 13px;
-    margin: 5px;
-    text-decoration: none;
-    -webkit-border-radius: 13px;
-    -moz-border-radius: 13px;
-    border-radius: 7px;
-    -webkit-box-shadow: 0px 4px 5px #666666;
-    -moz-box-shadow: 0px 4px 5px #666666;
-    box-shadow: 0px 4px 5px #666666;
-    text-shadow: 1px 2px 0px #666666;
-    border: solid #735896 2px;
-    background: #594474;
-}
-.btn_plus:hover {
-    background: #735896;
-  }
-.btn_minus{
-    font-family: Arial;
-    color: #ffffff;
-    font-size: 20px;
-    padding: 13px;
-    margin: 5px;
-    text-decoration: none;
-    -webkit-border-radius: 13px;
-    -moz-border-radius: 13px;
-    border-radius: 7px;
-    -webkit-box-shadow: 0px 4px 5px #666666;
-    -moz-box-shadow: 0px 4px 5px #666666;
-    box-shadow: 0px 4px 5px #666666;
-    text-shadow: 1px 2px 0px #666666;
-    border: solid #735896 2px;
-    background: #594474;
-}
-.btn_minus:hover {
-    background: #735896;
-  }
-
-.btn_add {
+.btn-cart{
     font-family: Arial;
     color: #ffffff;
     font-size: 20px;
@@ -64,12 +25,52 @@ p{
     text-shadow: 1px 2px 0px #666666;
     border: solid #735896 2px;
     background: #594474;
-  }
-.btn_add:hover {
-    background: #735896;
-  }
+}
+.btn-cart-remove{
 
-.div_count{
-    display: inline-block;
-  
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px;
+    margin: 5px;
+    text-decoration: none;
+    -webkit-border-radius: 13px;
+    -moz-border-radius: 13px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 4px 5px #666666;
+    -moz-box-shadow: 0px 4px 5px #666666;
+    box-shadow: 0px 4px 5px #666666;
+    text-shadow: 1px 2px 0px #666666;
+    border: solid #735896 2px;
+    background: #594474;
+}
+
+td{
+    margin: 10px;
+}
+
+table{
+    border-collapse: 20px;
+}
+
+.centrar{
+    text-align: center;
+    padding-left: 50px;
+}
+
+th{
+    padding-left: 50px;
+}
+
+.precio-total{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.container-btn{
+    display: flex;
+}
+
+.btn-finish{
+    margin-left: auto;
 }

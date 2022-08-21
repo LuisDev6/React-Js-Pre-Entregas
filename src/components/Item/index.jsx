@@ -9,7 +9,6 @@ const Item = ({ product }) => {
     const navigate = useNavigate();
 
     const handleDetail = () => {
-        console.log("Navega hacia el detail");
         navigate(`/detail/${product.id}`)
     }
 
