@@ -13,7 +13,7 @@ de una forma mas sencilla.
 
 ### App desplegada en Vercel:
 
-Link: https://vercel.com/luisprog06/ecommerce-instrumental-odontologico
+Link: https://ecommerce-instrumental-odontologico.vercel.app/
 
 ### Se utilizaron las siguientes herramientas:
 
